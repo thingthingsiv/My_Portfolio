@@ -18,7 +18,7 @@ const Hero = () => {
         <div>
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
-              <img src="/images/avatar.jpg" 
+              <img src="images/avatar.jpg" 
               width={40}
               height={40}
               alt="protait" 
@@ -54,7 +54,7 @@ const Hero = () => {
 
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto rounded-[60px] overflow-hidden">
-            <img src="/images/me.png" 
+            <img src="images/me.png" 
             width={656}
             height={800}
             alt="sivthingthing"
